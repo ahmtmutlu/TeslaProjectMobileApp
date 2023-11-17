@@ -21,4 +21,4 @@
 <!-- <p>You can reach to Website, when you are click <a href="https://cafeeqrmenu.netlify.app/">HERE</a>.</p> -->
 </body>
 </html>
-Screenshot ![MenuWithQRCodeGif](qr.gif)
+Screenshot ![tesla_project](tesla_project.gif)
