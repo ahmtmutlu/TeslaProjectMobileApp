@@ -22,6 +22,6 @@
 </body>
 </html>
 
-![Uploading teslaproject1.gif]()
+![teslaproject1.gif]()
 
 
