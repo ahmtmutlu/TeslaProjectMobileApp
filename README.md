@@ -16,7 +16,6 @@
   <ul>
     <li>React Native</li>
     <li>CSS</li>
-
     <li>JAVASCRIPT</li>
   </ul>
 <!-- <p>You can reach to Website, when you are click <a href="https://cafeeqrmenu.netlify.app/">HERE</a>.</p> -->
