@@ -22,6 +22,6 @@
 </body>
 </html>
 
-![](teslaproject1.gif)
+![g](teslaproject1.gif)
 
 
